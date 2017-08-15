@@ -9,3 +9,9 @@ react todolist最终版
 2、ESC取消编辑 回车确定编辑
 
 3、footer跳转
+
+运行 
+
+1、npm install
+
+2、npm start
